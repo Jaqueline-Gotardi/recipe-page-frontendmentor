@@ -4,7 +4,6 @@ Esse projeto é uma página de receita criada pra treinar minhas habilidades com
 O foco foi trabalhar layout responsivo, organização visual e um design limpo, sem precisar escrever um monte de CSS manualmente.
 
 
-📸 Prévia: 
 ![recipe-page](src/imagens/tela-de-receita.png)
 
 
